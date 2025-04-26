@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=t2013anurag.visitor-badge)](https://github.com/t2013anurag)
 [![Twitter Follow](https://img.shields.io/twitter/follow/t2013anurag?style=social)](https://twitter.com/t2013anurag)
 
 <!--
